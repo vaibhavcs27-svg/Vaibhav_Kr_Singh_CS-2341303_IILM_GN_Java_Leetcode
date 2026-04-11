@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/vaibhav0085/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0790-domino-and-tromino-tiling](https://github.com/vaibhav0085/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/0790-domino-and-tromino-tiling) |
 <!---LeetCode Topics End-->
