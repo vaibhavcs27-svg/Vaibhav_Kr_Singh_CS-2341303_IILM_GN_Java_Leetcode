@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/vaibhavcs27-svg/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3783-mirror-distance-of-an-integer](https://github.com/vaibhavcs27-svg/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Geometry
 |  |
 | ------- |
