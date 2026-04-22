@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/vaibhavcs27-svg/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/vaibhavcs27-svg/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/0054-spiral-matrix) |
 | [0922-sort-array-by-parity-ii](https://github.com/vaibhavcs27-svg/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/vaibhavcs27-svg/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/vaibhavcs27-svg/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/0203-remove-linked-list-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/vaibhavcs27-svg/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
