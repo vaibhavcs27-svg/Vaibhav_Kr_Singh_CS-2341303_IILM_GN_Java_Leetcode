@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/vaibhavcs27-svg/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/vaibhavcs27-svg/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/vaibhavcs27-svg/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/0054-spiral-matrix) |
+| [0162-find-peak-element](https://github.com/vaibhavcs27-svg/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/vaibhavcs27-svg/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/vaibhavcs27-svg/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/0704-binary-search) |
 | [0922-sort-array-by-parity-ii](https://github.com/vaibhavcs27-svg/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/vaibhavcs27-svg/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/vaibhavcs27-svg/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/vaibhavcs27-svg/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/0704-binary-search) |
 ## Number Theory
 |  |
