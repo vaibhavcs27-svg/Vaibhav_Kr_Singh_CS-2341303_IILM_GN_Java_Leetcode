@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/vaibhavcs27-svg/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vaibhavcs27-svg/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/vaibhavcs27-svg/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1590-make-sum-divisible-by-p](https://github.com/vaibhav0085/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1672-richest-customer-wealth](https://github.com/vaibhavcs27-svg/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/vaibhav0085/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/1929-concatenation-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/vaibhav0085/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/vaibhavcs27-svg/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/0202-happy-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/vaibhavcs27-svg/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/vaibhavcs27-svg/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1590-make-sum-divisible-by-p](https://github.com/vaibhav0085/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [3046-split-the-array](https://github.com/vaibhavcs27-svg/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/3046-split-the-array) |
 ## Counting
 |  |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/vaibhav0085/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/0292-nim-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [1590-make-sum-divisible-by-p](https://github.com/vaibhav0085/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 <!---LeetCode Topics End-->
