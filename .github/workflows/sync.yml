@@ -1,0 +1,21 @@
+name: Sync to vaibhav0085
+
+on:
+  push:
+    branches: [ "master", "main" ]
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Push to vaibhav0085
+        run: |
+          git config --global user.name "GitHub Action Sync"
+          git config --global user.email "action@github.com"
+          git remote add destination https://vaibhav0085:${{ secrets.SYNC_TOKEN }}@github.com/vaibhav0085/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode.git
+          git push destination --all --force
