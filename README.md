@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/vaibhavcs27-svg/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3046-split-the-array](https://github.com/vaibhavcs27-svg/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/3046-split-the-array) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/vaibhavcs27-svg/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/vaibhav0085/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/vaibhav0085/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/vaibhavcs27-svg/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/vaibhav0085/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [3046-split-the-array](https://github.com/vaibhavcs27-svg/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/3046-split-the-array) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/vaibhav0085/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Counting
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vaibhavcs27-svg/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/vaibhav0085/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/vaibhavcs27-svg/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/vaibhav0085/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3783-mirror-distance-of-an-integer](https://github.com/vaibhavcs27-svg/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Geometry
 |  |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0866-prime-palindrome](https://github.com/vaibhavcs27-svg/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/0866-prime-palindrome) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/vaibhav0085/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## String
 |  |
 | ------- |
@@ -175,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/vaibhav0085/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/0796-rotate-string) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/vaibhav0085/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 <!---LeetCode Topics End-->
