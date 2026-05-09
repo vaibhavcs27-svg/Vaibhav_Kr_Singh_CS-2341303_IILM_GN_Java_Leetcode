@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/vaibhav0085/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1672-richest-customer-wealth](https://github.com/vaibhavcs27-svg/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1861-rotating-the-box](https://github.com/vaibhav0085/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/1861-rotating-the-box) |
+| [1914-cyclically-rotating-a-grid](https://github.com/vaibhav0085/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/vaibhav0085/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/1929-concatenation-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/vaibhav0085/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/vaibhavcs27-svg/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -96,12 +97,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/vaibhavcs27-svg/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/0054-spiral-matrix) |
 | [1672-richest-customer-wealth](https://github.com/vaibhavcs27-svg/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1861-rotating-the-box](https://github.com/vaibhav0085/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/1861-rotating-the-box) |
+| [1914-cyclically-rotating-a-grid](https://github.com/vaibhav0085/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/vaibhav0085/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/vaibhav0085/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/vaibhavcs27-svg/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/0054-spiral-matrix) |
+| [1914-cyclically-rotating-a-grid](https://github.com/vaibhav0085/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/vaibhav0085/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/1929-concatenation-of-array) |
 ## Linked List
 |  |
